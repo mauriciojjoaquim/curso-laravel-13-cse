@@ -19,5 +19,6 @@
 @yield('content')
 
     <footer>footer default</footer>
+
 </body>
 </html>
